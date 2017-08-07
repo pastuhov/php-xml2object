@@ -26,7 +26,7 @@ Input:
 ```
 
 Output:
-```json
+```javascript
 {
     "_tagName": "root",
     "_childrenProperty": "children",
