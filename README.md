@@ -115,6 +115,8 @@ Usage
 -----
 
 ```php
+use pastuhov\xml2object\Parser;
+
 $converter = new Parser();
 $converter->xml = file_get_contents(__DIR__ . '/data/xml.xml');
 $object = $converter->process();

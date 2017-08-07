@@ -1,10 +1,8 @@
 <?php
-
 namespace pastuhov\xml2object\tests;
 
 use pastuhov\xml2object\Parser;
 use pastuhov\xml2object\tests\data\Object;
-use yii\helpers\Json;
 
 /**
  * Xml2Object test
