@@ -8,7 +8,7 @@ use pastuhov\xml2object\Node;
  */
 class Object extends Node
 {
-    public $_tagName = 'FindOEM';
+    public $_tagName = 'root';
     public $_childrenProperty = 'children';
 
     public function __construct()
