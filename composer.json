@@ -1,0 +1,42 @@
+{
+  "name": "pastuhov/php-xml2object",
+  "description": "Parse xml to object.",
+  "keywords": [
+
+  ],
+  "homepage": "https://github.com/pastuhov/php-xml2object",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Kirill Pastukhov",
+      "email": "kirill@pastukhov.su",
+      "homepage": "https://github.com/pastuhov/",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php" : ">=7.0.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit" : "4.*",
+    "scrutinizer/ocular": "~1.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "pastuhov\\xml2object\\": "src"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "pastuhov\\xml2object\\tests\\": "tests"
+    }
+  },
+  "scripts": {
+    "test": "phpunit"
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "1.0-dev"
+    }
+  }
+}

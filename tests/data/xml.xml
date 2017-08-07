@@ -1,0 +1,15 @@
+<root>
+    <detail detailid="3721899" formattedoem="90311-71001" manufacturer="TOYOTA">
+        <properties>
+            <property code="Name" detailpropertyid="6086730" locale="en_US" property="Наименование"/>
+            <property property="Наименование" rate="5" value="ｶﾑｼｬﾌﾄｾｯﾃｨﾝｸﾞ ｵｲﾙ ｼｰﾙ"/>
+            <property rate="5" value="0.035 кг"/>
+        </properties>
+    </detail>
+    <detail detailid="4445210" formattedoem="20621-71001" manufacturer="TOYOTA">
+        <properties>
+            <property code="Name" detailpropertyid="6086730" locale="en_US" property="Наименование"/>
+            <property property="Наименование" rate="5" value="ｶﾑｼｬﾌﾄｾｯﾃｨﾝｸﾞ ｵｲﾙ ｼｰﾙ"/>
+        </properties>
+    </detail>
+</root>
