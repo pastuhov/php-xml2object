@@ -90,6 +90,13 @@ Output:
 
 ```
 
+
+## Features
+
+* converts desired tags to properties
+* fast
+* memory saving
+
 Installation
 ------------
 
